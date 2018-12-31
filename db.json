@@ -1,0 +1,7 @@
+{
+    "mitigations": [
+        { "id": 1, "condition": "Assigned to me", "last": false},
+         { "id": 2, "condition": "Created by me", "last": false },
+         { "id": 3, "condition": "Due in ", "last": true }
+    ]
+}
